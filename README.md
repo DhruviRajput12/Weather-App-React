@@ -2,6 +2,9 @@
 
 -- In this Weather app, You just need to enter the name of the city and it gets you the accurate data using free API.
 
+# Output of the application I build
+<img src="https://github.com/DhruviRajput12/Weather-App-React/blob/main/1.png" alt="How the application looks">
+
 
 # Getting Started with Create React App
 
